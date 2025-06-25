@@ -1,3 +1,9 @@
+# sparseFLMM v0.4.3
+
+## changes
+
+- change of maintenance
+
 # sparseFLMM v0.4.2
 
 ## changes

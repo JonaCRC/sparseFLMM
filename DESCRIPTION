@@ -2,12 +2,12 @@ Package: sparseFLMM
 Type: Package
 Title: Functional Linear Mixed Models for Irregularly or Sparsely
         Sampled Data
-Version: 0.4.2
+Version: 0.4.3
 Authors@R: c(person("Jona", "Cederbaum", email = "Jona.Cederbaum@gmail.com",
                   role = c("aut", "cre")), 
                   person("Alexander", "Volkmann", role = c("aut")), 
                   person("Almond", "Stöcker", role = c("aut")))
-Maintainer: Jona Cederbaum <Jona.Cederbaum@gmail.com>
+Maintainer: Almond Stoecker <Almond.Stoecker@gmail.com>
 Description: Estimation of functional linear mixed models for irregularly or
     sparsely sampled data based on functional principal component analysis.
 License: GPL-2
